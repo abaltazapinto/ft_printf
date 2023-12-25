@@ -1,6 +1,6 @@
 # ft_printf Project
 
-This repository contains the code developed at 42 Porto for the ft_printf Project, completed from November 16, 2022, to November 30, 2022.
+This repository contains the code developed at 42 Porto for the ft_printf Project.
 
 ## 📓 Project Overview
 
@@ -55,7 +55,7 @@ The ft_printf Project at 42 Porto involves implementing a simplified version of 
 
 To use this ft_printf implementation, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ft_printf.git`
+1. Clone the repository: `git clone https://github.com/abaltazarpinto/ft_printf.git`
 2. Compile the project: `make`
 3. Run the tester: `./printfTester`
 
